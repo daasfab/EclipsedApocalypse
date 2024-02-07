@@ -45,13 +45,12 @@ _(more features will be added as I develop this game further!)_
 
 ---
 
-## 📸 Gameplay Screenshots
+## 📸 Gameplay Screenshots (In Progress)
 
-![MAIN MENU Screenshot](screenshots/screenshot2.png)
-![OPTIONS MENU Screenshot](screenshots/screenshot2.png)
-![CONTROLS MENU Screenshot](screenshots/screenshot3.png)
-![NEW / LOAD GAME MENU Screenshot](screenshots/screenshot3.png)
-![GAME PLAY (Early) Screenshot](screenshots/screenshot3.png)
+<div align="center">
+  <img src="Gameplay.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
+</div>
+
 
 
 ---
