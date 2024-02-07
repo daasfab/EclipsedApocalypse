@@ -48,7 +48,7 @@ _(more features will be added as I develop this game further!)_
 ## 📸 Gameplay Screenshots (In Progress)
 
 <div align="center">
-  <img src="Gameplay.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
+  <img src="📸 Gameplay Screenshots/Gameplay.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
 </div>
 
 
