@@ -17,6 +17,8 @@ Embark on an interstellar odyssey in this spine-chilling narrative game. When th
 
 Hi dear reader! A quick note that I just changed the name of the game from "Fear the Unknown" to "Eclipsed Apocalypse". This is a small update, and is noted here just to let you know in case you stumble upon the old name in places, where I did not get the chance to change it yet.
 
+- Animations of NPCs and the Main Character within the game and cutscenes, will be made using Mixamo's rigged animation models. I will apply them to the characters' 3D models, which are made in Blender.
+
 ---
 
 ## 📖 The Story... (in progress)
